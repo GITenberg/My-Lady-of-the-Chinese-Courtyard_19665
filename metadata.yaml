@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '2180'
     url: http://www.gutenberg.org/2009/agents/2180
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19665#My-Lady-of-the-Chinese-Courtyard
 gutenberg_issued: '2006-10-30'
 gutenberg_type: Text
 identifiers:
